@@ -2,7 +2,7 @@
 This repository contains the essential files and instructions needed to construct a visual analysis tool aimed at optimizing the isothermal melt spinning process. Utilizing a trained machine learning model, this tool offers interactive predictions. The comprehensive process of constructing the machine learning model is outlined in the accompanying paper [[1]](#1).
 
 
-![](images/solution_univariate.PNG)
+![](images/solution_bivariate.PNG)
 
 ## Deployment
 The following steps will enable you to build and run the tool on your local machine.
