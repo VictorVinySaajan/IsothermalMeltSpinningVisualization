@@ -1,4 +1,4 @@
-# IsothermalMeltSpinningVisualization
+# Visualization for Isothermal Melt Spinning
 This repository contains the essential files and instructions needed to construct a visual analysis tool aimed at optimizing the isothermal melt spinning process. Utilizing a trained machine learning model, this tool offers interactive predictions. The comprehensive process of constructing the machine learning model is outlined in the accompanying paper [[1]](#1).
 
 
