@@ -16,6 +16,6 @@ The following steps will enable you to build and run the tool on your local mach
 ## References
 <a id="1">[1]</a>
 V.S. Victor, M. Ettmüller, A. Schmeißer, H. Leitte, S. Gramsch. 2024. Informed Machine
-Learning for Optimizing Melt Spinning Processes. Submitted to IEEE Conference on
+Learning for Optimizing Melt Spinning Processes. Accepted by IEEE Conference on
 Artificial Intelligence.
 
